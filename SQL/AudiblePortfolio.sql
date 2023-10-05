@@ -1,3 +1,6 @@
+Data Cleaning an Audible dataset
+
+
 --REMOVE "WRITTENBY:" FROM AUTHOR COLUMN; 
 
 alter table audible add column new_author varchar(250)
