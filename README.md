@@ -1,6 +1,6 @@
 # Data-analyst-portfolio
 
-Welcome to my Data Analyst Portfolio!
+Welcome to my github Data Analyst Portfolio!
 
 My name is Chris and I'm passionate about solving problems and thrilled when I get to assist others in the process. I'll show you a selection of data analytics projects I've completed, highlighting my understanding of the fundamentals of the field, a flexibility to adapt and an attitude focused on growth and finding solutions. 
 
@@ -15,3 +15,5 @@ Beyond technical proficiency, I take pride in my acumen for critical thinking an
 With a wealth of data analytics skills and practical experience, I am primed for any data analyst role. I trust that my portfolio serves as a valuable resource, providing insight into my capabilities. I eagerly anticipate the opportunity to delve deeper into my qualifications in a discussion with you.
 
 I appreciate your time and look forward to the prospect of connecting with you soon.
+
+Heres a link back to my main portfolio: https://chrisstojanov.wixsite.com/portfolio
