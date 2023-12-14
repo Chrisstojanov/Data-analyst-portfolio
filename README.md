@@ -16,4 +16,4 @@ With a wealth of data analytics skills and practical experience, I am primed for
 
 I appreciate your time and look forward to the prospect of connecting with you soon.
 
-Heres a link back to my main portfolio: https://chrisstojanov.wixsite.com/portfolio
+
